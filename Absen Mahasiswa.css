@@ -1,0 +1,12 @@
+body{
+    background-color: wheat;
+}
+h1{
+    padding-inline-start: 80px;
+    padding-top: 150px;
+}
+.clock{
+    padding-bottom:  500px;
+    justify-content: center;
+    
+}

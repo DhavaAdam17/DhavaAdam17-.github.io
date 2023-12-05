@@ -1,0 +1,79 @@
+body{
+    background-color: wheat;
+}
+.judul{
+    color: blue;
+    
+        margin: 20px;
+        scroll-padding-top: 70px;
+        color: whitesmoke;
+    
+}
+.quote{
+    margin: 20px;
+    padding: 0;
+}
+.text2{
+    color: whitesmoke;
+    color: purple;
+}
+.kuotes{
+    color:purple;
+    color: purple;
+    
+
+    }
+        
+
+
+.button{
+   
+       padding-bottom: 5%;
+    }
+.judul{
+    background-color: purple;
+}
+.Nama{
+    color:whitesmoke;
+}
+.lupa{
+    padding-top: 25px;
+}
+.Login{
+    padding-top: 20px;
+}
+.copy{
+    padding-top: 20px;
+}
+.right{
+    color:rgba(0, 0, 255, 0.88)
+}
+.r1{
+    color:gba(0, 0, 255, 0.88)
+}
+
+.kontak{
+    header{
+        border: 5px black;
+    }
+}
+.lokasi{
+    padding: 0px;
+    margin: 0px;
+}
+.email{
+    padding-right: 80px;
+}
+.profil{
+    padding-inline-start: 50px;
+}
+.navbar2 ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+.navbar2 ul li a{
+    color:black;
+    text-transform: uppercase;
+}

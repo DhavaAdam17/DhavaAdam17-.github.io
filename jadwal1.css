@@ -1,0 +1,45 @@
+body{
+    background-color: wheat;
+    
+}
+.box1{
+    width: 100px;
+    height:100px;
+    background:green;
+    border:black
+}
+.senin2{
+    background-color: aqua;
+}
+.senin{
+background-color:aqua;
+}
+
+
+    
+
+.wer{
+    background-color: aqua;
+}
+.selasa{
+    background-color: aqua;
+}
+.jadwal{
+    text-size: 80px;
+}
+.profil{
+    padding-inline-start: 50px;
+}
+.navbar2 ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+.navbar2 ul li a{
+    color:black;
+    text-transform: uppercase;
+}
+.masuk kelas{
+    border-color: blue;
+}
